@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
 const timelineData = [
     {
-        date: 'Feb 2022 - Present',
-        title: 'Chief Bug Creator',
+        date: '2023 - 2027',
+        title: 'B.E. in IT',
         description: 'At Innovative Solutions Inc., I excel in generating creative and elusive bugs to keep our testing team busy and entertained. Regularly praised for crafting bugs that evade detection and defy logic.'
     },
     {
